@@ -1,5 +1,4 @@
-# :point_down:
-**所有资源，如果有解压密码：`fuckmakeding`**
+:point_right: **所有资源，如果有解压密码：`fuckmakeding`**
 
 ## Image-Line FL Studio
 
