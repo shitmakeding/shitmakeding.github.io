@@ -1,6 +1,7 @@
-
+# :point_down:
 **所有资源，如果有解压密码：`fuckmakeding`**
 
+# 目前提供的反山寨软件下载
 ## Image-Line FL Studio
 
 > 请注意：**FL Studio 20 现在尚无有效汉化补丁**，任何有关 FL 20 汉化的内容均为虚假信息，敬请以本项目内容为信。
