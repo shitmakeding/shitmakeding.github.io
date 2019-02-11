@@ -6,6 +6,8 @@
 
 **所有资源，如果有解压密码：`fuckmakeding`**
 
+接下来是目前本项目提供的反山寨软件下载~
+
 ## Image-Line FL Studio
 
 > 请注意：**FL Studio 20 现在尚无有效汉化补丁**，任何有关 FL 20 汉化的内容均为虚假信息，敬请以本项目内容为信。
@@ -16,10 +18,11 @@
   - 正版软件 [真正官网](https://www.image-line.com/flstudio/) 及 [真正商店页面](https://support.image-line.com/jshop/shop.php) 官方支持支付宝
 
 ## Corel VedioStudio 会声会影
-  - [VedioStudio 2018(V20带更新)](https://freeshadow-my.sharepoint.com/personal/eagle_abcda_tech/_layouts/15/download.aspx?e=4sG2OZ&share=EWLzkehwHydJs1DckyugNhIBao-GMBz7rC3tc-Yz8rOQRw)
-  - [VedioStudio 2018(Installer)](https://freeshadow-my.sharepoint.com/personal/eagle_abcda_tech/_layouts/15/download.aspx?e=Dmtayj&share=ESASipNydMBPtRDLhvLUp5wBOnMOh70477YTT6DWaWbw7w)
 
 > 安装教程尚未发布
+
+  - [VedioStudio 2018](https://freeshadow-my.sharepoint.com/personal/eagle_abcda_tech/_layouts/15/download.aspx?e=4sG2OZ&share=EWLzkehwHydJs1DckyugNhIBao-GMBz7rC3tc-Yz8rOQRw) （V20 带更新）
+  - [VedioStudio 2018](https://freeshadow-my.sharepoint.com/personal/eagle_abcda_tech/_layouts/15/download.aspx?e=Dmtayj&share=ESASipNydMBPtRDLhvLUp5wBOnMOh70477YTT6DWaWbw7w) （安装包）
 
 ## Pixologic ZBrush
 
