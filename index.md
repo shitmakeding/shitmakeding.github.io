@@ -1,4 +1,10 @@
-:point_right: **所有资源，如果有解压密码：`fuckmakeding`**
+## 重要的事情说三遍
+
+**所有资源，如果有解压密码：`fuckmakeding`**
+
+**所有资源，如果有解压密码：`fuckmakeding`**
+
+**所有资源，如果有解压密码：`fuckmakeding`**
 
 ## Image-Line FL Studio
 
