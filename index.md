@@ -1,7 +1,6 @@
 ## *Project Fuckmakeding*
-# 反思杰马克丁山寨软件项目
 
-## 以下所有资源 解压密码：`fuckmakeding`
+> 以下所有资源 解压密码：`fuckmakeding`
 
 Image-Line FL Studio
 
