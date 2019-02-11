@@ -46,7 +46,7 @@
 
 **将本站分享给您的朋友**：`shitmakeding.github.io`，也可扫描二维码：
 
-![二维码未能加载，也可分享网址：https://shitmakeding.github.io/](1549893335.png)
+![二维码未能加载，可分享网址：https://shitmakeding.github.io/](QR.png)
 
 ------
 
