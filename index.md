@@ -2,7 +2,7 @@
 
 > 以下所有资源 解压密码(如果有)：`fuckmakeding`
 
-## 项目Gitter讨论群：[Click here to Gitter](https://gitter.im/antimakeding/community)
+[![Gitter](https://badges.gitter.im/antimakeding/community.svg)](https://gitter.im/antimakeding/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 
 
 ## Image-Line FL Studio
