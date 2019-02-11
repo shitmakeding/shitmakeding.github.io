@@ -1,5 +1,5 @@
 
-# 以下所有资源 如果有解压密码：`fuckmakeding`
+**所有资源，如果有解压密码：`fuckmakeding`**
 
 ## Image-Line FL Studio
 
@@ -10,9 +10,10 @@
   - [FL Studio 12.3 汉化版](http://t.cn/E58cRKl) （第三方提供）
   - 正版软件 [真正官网](https://www.image-line.com/flstudio/) 及 [真正商店页面](https://support.image-line.com/jshop/shop.php) 官方支持支付宝
 
-## Corel VedioStudio
-  - [2018(V20带更新)](https://freeshadow-my.sharepoint.com/personal/eagle_abcda_tech/_layouts/15/download.aspx?e=4sG2OZ&share=EWLzkehwHydJs1DckyugNhIBao-GMBz7rC3tc-Yz8rOQRw)
-  - [2018(Installer)](https://freeshadow-my.sharepoint.com/personal/eagle_abcda_tech/_layouts/15/download.aspx?e=Dmtayj&share=ESASipNydMBPtRDLhvLUp5wBOnMOh70477YTT6DWaWbw7w)
+## Corel VedioStudio 会声会影
+  - [VedioStudio 2018(V20带更新)](https://freeshadow-my.sharepoint.com/personal/eagle_abcda_tech/_layouts/15/download.aspx?e=4sG2OZ&share=EWLzkehwHydJs1DckyugNhIBao-GMBz7rC3tc-Yz8rOQRw)
+  - [VedioStudio 2018(Installer)](https://freeshadow-my.sharepoint.com/personal/eagle_abcda_tech/_layouts/15/download.aspx?e=Dmtayj&share=ESASipNydMBPtRDLhvLUp5wBOnMOh70477YTT6DWaWbw7w)
+
 > 安装教程尚未发布
 
 ## Pixologic ZBrush
