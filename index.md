@@ -37,9 +37,9 @@
 
 - 资源均采用官方原版制作，保证可用性，且与马克丁贴牌版无任何瓜葛。
 - **解压后获得 exe 自解压包 或 zip 等压缩包**，将从中释放安装包和各种补丁，安全性人格担保，不放心请自行购买正版。
-- 遇链接失效，或有新软件需求可 给我们发邮件(pamie97978@163.com 或 siyi.eagle@gmail.com) 求助，将尽快在能力范围内提供帮助。
+- 遇链接失效，或有新软件需求可以给我们发邮件求助（pamie97978@163.com 或 siyi.eagle@gmail.com）。
 - 存储空间为 Ctfile 提供，仅为规避百度网盘审查，放弃一切广告利润。
-- **高速镜像**为 UploadHive 提供，仅为获得高于 Ctfile 的下载速度（部分地区可达 1M 每秒，但也可能比 Ctfile 慢），进入页面后请寻找绿色 Create download link 按钮，在随后的页面中寻找给出的 rar 下载链接，可用迅雷下载。注意不要点到广告。
+- **高速镜像**为 UploadHive 提供，仅为获得高于 Ctfile 的下载速度（部分地区可达 1M 每秒，但也可能比 Ctfile 慢），进入页面后请寻找绿色 Create download link 按钮，在随后的页面中寻找给出的 rar 下载链接，可用迅雷下载。
 - 禁止企业等盈利性团队使用。
 - 欢迎马克丁律师团致电我们：☎+86 138-0013-8000
 - 想要加入维护工作？进入 Gitter 讨论群：[![Gitter](https://badges.gitter.im/antimakeding/community.svg)](https://gitter.im/antimakeding/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
