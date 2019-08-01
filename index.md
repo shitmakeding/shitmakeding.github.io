@@ -1,4 +1,3 @@
-[![Gitter](https://badges.gitter.im/antimakeding/community.svg)](https://gitter.im/antimakeding/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 
 ## 公告
 
@@ -51,6 +50,8 @@
 - 高速镜像为 UploadHive 提供，仅为获得高于 Ctfile 的下载速度（部分地区可达 1M 每秒，但也可能比 Ctfile 慢），进入页面后请寻找绿色 Create download link 按钮，在随后的页面中寻找给出的 rar 下载链接，可用迅雷下载。
 - 禁止企业等盈利性团队使用。
 - 欢迎马克丁律师团致电我们：☎+86 138-0013-8000
+
+[![Gitter](https://badges.gitter.im/antimakeding/community.svg)](https://gitter.im/antimakeding/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
 
 **将本站分享给您的朋友**：`shitmakeding.github.io`，也可扫描二维码：
 
