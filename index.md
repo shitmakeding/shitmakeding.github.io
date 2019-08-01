@@ -1,43 +1,52 @@
-**所有资源，如果有解压密码：`fuckmakeding`**
+## 公告
+
+**[2019-8-1] 下载地址已更新，感谢关注！**
+
+**[2019-3-8] 所有资源，如果有解压密码：`fuckmakeding`**
 
 ## Image-Line FL Studio
 
-> 请注意：**FL Studio 20 现在尚无有效汉化补丁**，任何有关 FL 20 汉化的内容均为虚假信息，敬请以本项目内容为信。
+> **FL Studio 20 依然尚无有效汉化补丁**，任何有关 FL 20 汉化的内容均为虚假信息，敬请以本项目内容为信。
 
-  - [**FL Studio 20.1.1 英文版**](http://t.cn/EcSqMO2) 以及 [高速镜像](http://uploadhive.com/mzjd5w7n99mg.htm) （看下方说明）
-  - [FL Studio 20.0.3 英文版](http://t.cn/Ec6RCtm)
-  - [FL Studio 12.3 汉化版](http://t.cn/E58cRKl) （第三方提供）
+  <!-- - [**FL Studio 20.1.1 英文版**](http://u19300650.ctfile.net/fs/19300650-335353272)-->
+  - [FL Studio 20.0.3 英文版](http://u19300650.ctfile.net/fs/19300650-390956192)
+  <!-- - [FL Studio 12.3 汉化版](http://t.cn/E58cRKl) （第三方提供）-->
+  - FL 12 资源正在维护中。
   - 正版软件 [真正官网](https://www.image-line.com/flstudio/) 及 [真正商店页面](https://support.image-line.com/jshop/shop.php) 官方支持支付宝
+
+## Arobas Music Guitar Pro 7
+
+  - [**Guitar Pro 7.5.2 中文版**](http://u19300650.ctfile.net/fs/19300650-390964065)
+  - 正版软件 [真正官网](https://www.guitar-pro.com/en/index.php) 及 [真正商店页面](https://www.guitar-pro.com/en/index.php?pg=products)
 
 ## Corel VedioStudio 会声会影
 
-> 安装教程尚未发布
-
   - [VedioStudio 2018](https://freeshadow-my.sharepoint.com/personal/eagle_abcda_tech/_layouts/15/download.aspx?e=4sG2OZ&share=EWLzkehwHydJs1DckyugNhIBao-GMBz7rC3tc-Yz8rOQRw) （V20 带更新）
   - [VedioStudio 2018](https://freeshadow-my.sharepoint.com/personal/eagle_abcda_tech/_layouts/15/download.aspx?e=Dmtayj&share=ESASipNydMBPtRDLhvLUp5wBOnMOh70477YTT6DWaWbw7w) （安装包）
+  - 正版软件 [真正官网](https://www.videostudiopro.com/tw/) 及 [真正商店页面](https://www.videostudiopro.com/tw/products/videostudio/)
 
 ## Pixologic ZBrush
 
-  - [**ZBrush 4R8 P2 多语言版**](http://t.cn/E5jJdps)
+  - [**ZBrush 4R8 P2 多语言版**](http://u19300650.ctfile.net/fs/19300650-332478316)
   - 正版软件 [真正官网](http://pixologic.com/) 及 [真正商店页面](https://store.pixologic.com/)
 
 ## Luxion KeyShot
 
-  - [**Keyshot 8 英文版**](http://t.cn/E5j6i8B)
+  下载需求很少，因此不再通过网盘提供。
   - 正版软件 [真正官网](https://www.keyshot.com/) 及 [真正商店页面](https://buy.keyshot.com/)、[中国真正授权代理商（仅企业客户）](http://www.iristechchina.com/)
-  
+
 ## Wiris MathType
 
-  - [**MathType 6.9b 中文版**](http://t.cn/E5T6LNP)
+  下载需求很少，因此不再通过网盘提供。
   - 正版软件 [真正官网](http://www.wiris.com/mathtype) 及 [真正商店页面](http://www.wiris.com/en/store)
 
 ## 项目说明
 
 - 资源均采用官方原版制作，保证可用性，且与马克丁贴牌版无任何瓜葛。
 - **解压后获得 exe 自解压包或 zip 等压缩包**，将从中释放安装包和各种补丁，安全性人格担保，不放心请自行购买正版。
-- 遇链接失效，或有新软件需求，可以给 [pamie97978@163.com](mailto:pamie97978@163.com) 发邮件求助。
+- 遇链接失效，或有新软件需求，可以给 [pamie97978@163.com](mailto:pamie97978@163.com) 发邮件求助；因下载数很少而不再维护的软件，也可以发邮件索要。
 - 存储空间为 Ctfile 提供，仅为规避百度网盘审查，**放弃一切广告利润**。
-- **高速镜像**为 UploadHive 提供，仅为获得高于 Ctfile 的下载速度（部分地区可达 1M 每秒，但也可能比 Ctfile 慢），进入页面后请寻找绿色 Create download link 按钮，在随后的页面中寻找给出的 rar 下载链接，可用迅雷下载。
+- 高速镜像为 UploadHive 提供，仅为获得高于 Ctfile 的下载速度（部分地区可达 1M 每秒，但也可能比 Ctfile 慢），进入页面后请寻找绿色 Create download link 按钮，在随后的页面中寻找给出的 rar 下载链接，可用迅雷下载。
 - 禁止企业等盈利性团队使用。
 - 欢迎马克丁律师团致电我们：☎+86 138-0013-8000
 - 想要加入维护工作？进入 Gitter 讨论群：[![Gitter](https://badges.gitter.im/antimakeding/community.svg)](https://gitter.im/antimakeding/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
