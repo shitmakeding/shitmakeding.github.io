@@ -11,8 +11,7 @@
 
   - [**FL Studio 20.5.0 英文版**](http://u19300650.ctfile.net/fs/19300650-390972586) 及 [高速镜像](http://uploadhive.com/224ol1cy974l.htm)
   - [FL Studio 20.0.3 英文版](http://u19300650.ctfile.net/fs/19300650-390956192)
-  <!-- - [FL Studio 12.3 汉化版](http://t.cn/E58cRKl) （第三方提供）-->
-  - FL 12 资源正在维护中…
+  - [FL Studio 12.3 汉化版](http://u19300650.ctfile.net/fs/19300650-390974465) （第三方提供）
   - 正版软件 [真正官网](https://www.image-line.com/flstudio/) 及 [真正商店页面](https://support.image-line.com/jshop/shop.php) 官方支持支付宝
 
 ## Arobas Music Guitar Pro 7
