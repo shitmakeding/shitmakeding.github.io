@@ -2,16 +2,16 @@
 
 **[2019-8-1] 下载地址已更新，感谢关注！**
 
-**[2019-3-8] 所有资源，如果有解压密码：`fuckmakeding`**
+**[2019-2-20] 所有资源，如果有解压密码：`fuckmakeding`**
 
 ## Image-Line FL Studio
 
 > **FL Studio 20 依然尚无有效汉化补丁**，任何有关 FL 20 汉化的内容均为虚假信息，敬请以本项目内容为信。
 
-  <!-- - [**FL Studio 20.1.1 英文版**](http://u19300650.ctfile.net/fs/19300650-335353272)-->
+  - [**FL Studio 20.5.0 英文版**](http://u19300650.ctfile.net/fs/19300650-390972586)
   - [FL Studio 20.0.3 英文版](http://u19300650.ctfile.net/fs/19300650-390956192)
   <!-- - [FL Studio 12.3 汉化版](http://t.cn/E58cRKl) （第三方提供）-->
-  - FL 12 资源正在维护中。
+  - FL 12 资源正在维护中…
   - 正版软件 [真正官网](https://www.image-line.com/flstudio/) 及 [真正商店页面](https://support.image-line.com/jshop/shop.php) 官方支持支付宝
 
 ## Arobas Music Guitar Pro 7
