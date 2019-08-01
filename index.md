@@ -10,7 +10,7 @@
 
 > **FL Studio 20 依然尚无有效汉化补丁**，任何有关 FL 20 汉化的内容均为虚假信息，敬请以本项目内容为信。
 
-  - [**FL Studio 20.5.0 英文版**](http://u19300650.ctfile.net/fs/19300650-390972586)
+  - [**FL Studio 20.5.0 英文版**](http://u19300650.ctfile.net/fs/19300650-390972586) 及 [高速镜像](http://uploadhive.com/224ol1cy974l.htm)
   - [FL Studio 20.0.3 英文版](http://u19300650.ctfile.net/fs/19300650-390956192)
   <!-- - [FL Studio 12.3 汉化版](http://t.cn/E58cRKl) （第三方提供）-->
   - FL 12 资源正在维护中…
