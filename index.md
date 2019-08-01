@@ -16,7 +16,7 @@
 
 ## Arobas Music Guitar Pro 7
 
-  - [**Guitar Pro 7.5.2 中文版**](http://u19300650.ctfile.net/fs/19300650-390964065)
+  - [**Guitar Pro 7.5.2 中文版**](http://u19300650.ctfile.net/fs/19300650-390964065) 及 [高速镜像](http://uploadhive.com/cztgbf5bph7n.htm)
   - 正版软件 [真正官网](https://www.guitar-pro.com/en/index.php) 及 [真正商店页面](https://www.guitar-pro.com/en/index.php?pg=products)
 
 ## Corel VedioStudio 会声会影
