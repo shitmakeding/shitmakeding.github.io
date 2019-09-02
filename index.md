@@ -1,6 +1,8 @@
 
 > ### 公告
 > 
+> [2019-9-2] 新上线 MindManager 2019 资源，欢迎下载！
+> 
 > [2019-8-1] 下载地址已更新，感谢关注！
 > 
 > **[2019-2-20] 所有资源，如果有解压密码：`fuckmakeding`**
@@ -10,7 +12,6 @@
 **FL Studio 20 依然尚无有效汉化补丁**，任何有关 FL 20 汉化的内容均为虚假信息，敬请以本项目内容为信。
 
   - [**FL Studio 20.5.0 英文版**](http://u19300650.ctfile.net/fs/19300650-390972586) 及 [高速镜像](http://uploadhive.com/224ol1cy974l.htm)
-  - [FL Studio 20.0.3 英文版](http://u19300650.ctfile.net/fs/19300650-390956192)
   - [FL Studio 12.3 汉化版](http://u19300650.ctfile.net/fs/19300650-390974465) （第三方提供）
   - 正版软件 [真正官网](https://www.image-line.com/flstudio/) 及 [真正商店页面](https://support.image-line.com/jshop/shop.php) 官方支持支付宝
 
@@ -18,6 +19,11 @@
 
   - [**Guitar Pro 7.5.2 中文版**](http://u19300650.ctfile.net/fs/19300650-390964065) 及 [高速镜像](http://uploadhive.com/cztgbf5bph7n.htm)
   - 正版软件 [真正官网](https://www.guitar-pro.com/en/index.php) 及 [真正商店页面](https://www.guitar-pro.com/en/index.php?pg=products)
+
+## Mindjet MindManager 2019
+
+  - [**MindManager 19.1.198 64位 国际版**](http://u19300650.ctfile.net/fs/19300650-396067364) 及 [高速镜像](http://uploadhive.com/x7hyr9mwifnt.htm)
+  - 正版软件 [真正官网](https://www.mindjet.com/mindmanager/) 及 [真正商店页面](https://store.mindjet.com/1494/purl-en-family-top)
 
 ## Corel VedioStudio 会声会影
 
@@ -46,7 +52,7 @@
 - **解压后获得 exe 自解压包或 zip 等压缩包**，将从中释放安装包和各种补丁，安全性人格担保，不放心请自行购买正版。
 - 遇链接失效，或有新软件需求，可以给 [pamie97978@163.com](mailto:pamie97978@163.com) 发邮件求助；因下载数很少而不再维护的软件，也可以发邮件索要。
 - 存储空间为 Ctfile 提供，仅为规避百度网盘审查，**放弃一切广告利润**。
-- 高速镜像为 UploadHive 提供，仅为获得高于 Ctfile 的下载速度（部分地区可达 1M 每秒，但也可能比 Ctfile 慢），进入页面后请寻找绿色 Create download link 按钮，在随后的页面中寻找给出的 rar 下载链接，可用迅雷下载。
+- 高速镜像为 UploadHive 提供，仅为获得高于 Ctfile 的下载速度（部分地区可达 1M 每秒，但也可能比 Ctfile 慢），进入页面后请寻找绿色 Create download link 按钮，在随后的页面中寻找给出的 rar 下载链接，可用 IDM 及迅雷等下载。
 - 禁止企业等盈利性团队使用。
 - 欢迎马克丁律师团致电我们：☎+86 138-0013-8000
 
